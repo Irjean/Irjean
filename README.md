@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm a fullstack developer !
 
+I mostly work with Javascript but I'd like to learn other programming languages !
+
+- Hacktoberfest participant in 2022 and 2023
+
 [![An image of @irjean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irjean)](https://holopin.io/@irjean)
 
 <!--
