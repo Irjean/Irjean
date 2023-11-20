@@ -6,6 +6,8 @@ I mostly work with Javascript but I'd like to learn other programming languages 
 
 [![An image of @irjean's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irjean)](https://holopin.io/@irjean)
 
+[![](https://visitcount.itsvg.in/api?id=Irjean&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **Irjean/Irjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
